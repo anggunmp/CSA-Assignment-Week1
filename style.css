@@ -1,0 +1,270 @@
+* {
+    font-family: 'Heebo', sans-serif;
+
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.nav-item a {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.profil {
+    margin-top: 228px;
+}
+
+.name {
+    margin-left: 130px;
+    width: 410px;
+    display: inline-block;
+    color: #21243D;
+   
+}
+
+.name h1 {
+    font-weight: 700;
+}
+
+.name p {
+
+}
+.name button {
+    color: #fff;
+    background: #FF6464;
+    font-size: 20px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border: none;
+    width: 208px;
+    height: 47px; 
+}
+
+.foto {
+    width: 400px;
+    display: inline-block;
+    float: right;
+}
+
+#rectangle {
+    margin-top: 71px;
+    padding: 39px;
+    background-color: #EDF7FA;
+    overflow: auto;
+}
+
+.head p {
+    margin-left: 125px;
+    color:#21243D;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+}
+
+.head a {
+    float: right;
+    margin-right: 125px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #00A8CC;
+}
+
+.box1 {
+    width: 418px;
+    height: 295px;
+    border-radius: 4px;
+    margin-left: 125px;
+    padding: 24px;
+    background-color: #fff;
+    float: left;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+
+}
+
+.box1 p{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.box2 {
+    width: 418px;
+    height: 295px;
+    border-radius: 4px;
+    margin-right: 125px;
+    padding: 24px;
+    background-color: #fFF;
+    float: right;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+
+}
+
+.box2 p{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#recent h2{
+    color: var(--Dark-Color, #21243D);
+    font-family: 'Heebo';
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* fwork1 */
+#fwork1 .container h3 {
+    color:#21243D;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 125px;
+    margin-bottom: 50px;
+}
+
+.left img {
+    margin-left: 125px;
+    border-radius: 6px;
+    
+}
+
+.left {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    float: left;
+}
+
+#fwork1 .right h3 {
+    color: #21243D;
+    font-family: 'Heebo';
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.right {
+    margin-left: 395px;
+}
+
+.right .year {
+    background-color: #21243D;
+    color: #fFF;
+    font-weight: 900px;
+    border-radius: 16px;
+    font-style: normal;
+
+}
+
+/* fwork 2 */
+
+#fwork2 .container h3 {
+    color:#21243D;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 125px;
+}
+
+.left img {
+    margin-left: 125px;
+    border-radius: 6px;
+    
+}
+
+.left {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    float: left;
+}
+
+#fwork2 .right h3 {
+    color: #21243D;
+    font-family: 'Heebo';
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.right {
+    margin-left: 395px;
+}
+
+.year {
+    background-color: #21243D;
+    color: #fFF;
+    font-weight: 700px;
+    border-radius: 16px;
+    font-size: 18px;
+    border-radius: 16px;
+
+}
+
+/* Fwork3 */
+
+#fwork3 .container h3 {
+    color:#21243D;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 125px;
+}
+
+.left img {
+    margin-left: 125px;
+    border-radius: 6px;
+    
+}
+
+.left {
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    float: left;
+}
+
+#fwork3 .right h3 {
+    color: #21243D;
+    font-family: 'Heebo';
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.right {
+    margin-left: 395px;
+    width: 550px;
+}
+
+.year {
+    background-color: #21243D;
+    color: #fFF;
+    font-weight: 700px;
+    border-radius: 16px;
+    font-size: 18px;
+    border-radius: 16px;
+
+}
+
+
+.iconfooter li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
